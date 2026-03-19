@@ -6,7 +6,7 @@ Modify this function to print exactly: hello world
 
 def greet():
     """Return a greeting string."""
-    return "goodbye universe"
+    return "hello world"
 
 
 if __name__ == "__main__":
